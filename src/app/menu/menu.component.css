@@ -1,0 +1,23 @@
+
+.nav{
+  
+    font-weight: bold;
+    font-size: 20px;
+    background-color: rgb(32, 70, 195);
+    height: auto;
+    
+}
+
+.nav-item{
+   
+    margin-top: 10px;
+    margin-right: 35px;
+    margin-bottom: 10px;
+}
+.nav-link{
+    
+    color:#fff;
+}
+a:hover{
+    color: red;
+}

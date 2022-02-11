@@ -1,0 +1,25 @@
+{
+  "vagas": [
+    {
+      "id": 1,
+      "nome": "Estágio Front-End",
+      "foto": "foto1.jpg",
+      "descricao": "Estágio em front-end com Angular e React",
+      "salario": 1526
+    },
+    {
+      "id": 2,
+      "nome": "Desenvolver BackEnd Pleno",
+      "foto": "foto2.jpg",
+      "descricao": "Trabalhar com Spring Boot",
+      "salario": 7854
+    },
+    {
+      "id": 3,
+      "nome": "Desenvolver Fullstack ",
+      "foto": "foto3.jpg",
+      "descricao": "Trabalhar com Angular,Spring e MySql",
+      "salario": 12030
+    }
+  ]
+}
